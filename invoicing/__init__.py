@@ -1,1 +1,1 @@
-# from .invoice import generate
+from .invoice import generate
