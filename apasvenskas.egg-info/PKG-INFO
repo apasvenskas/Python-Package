@@ -1,5 +1,5 @@
 Metadata-Version: 2.1
-Name: invoicing
+Name: apasvenskas
 Version: 1.0.0
 Summary: This package can be used to convert Excel invoices to PDF invoices.
 Home-page: https://github.com/apasvenskas/Python-Package
